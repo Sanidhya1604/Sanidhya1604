@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanidhya1604
+- 👋 Hi, I’m @Sanidhya
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: mail at sanidhya.mohari1604@GMAIL.COM
