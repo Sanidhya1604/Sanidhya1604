@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanidhya
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning JS
 - 📫 How to reach me: mail at sanidhya.mohari1604@GMAIL.COM
 - ⚡ Fun fact: I am new to coding
 
